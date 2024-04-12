@@ -1,0 +1,26 @@
+.my-nav {
+    background-color:#111212;
+}
+.brand-img {
+    height: 43.4px;
+    width: 170px;
+}
+.nav-link {
+    color: white !important;
+    margin-right: 20px;
+}
+.enter-btn {
+    border: 1px solid #01C696;
+    padding: 5px 20px 5px 20px;
+    background-color: #111212;
+    border-radius: 8px;
+    color: white;
+}
+.log-in {
+    width: 150px;
+    display: flex;
+    column-gap: 16px;
+}
+.inner-nav {
+    margin-right: 85px;
+}

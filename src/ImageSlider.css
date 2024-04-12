@@ -1,0 +1,38 @@
+.btn {
+    position: absolute;
+    top: 40%;
+}
+.btnR {
+    left: 20%;
+    background-color: white;
+    border-radius: 25px;
+}
+.btnL {
+    right: 20%;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.dot-button {
+    height: 10px;
+    border-radius: 10px;
+    width: 3px;
+    top: 10px;
+    left: 10px;
+    outline: none;
+    border: none;
+    margin: 2px;
+}
+.active1 {
+    background-color: #01C696;
+}
+.dot-container {
+    position: relative;
+    left: 50%;
+}
+.btn-style {
+    border: none;
+    background: none;
+    outline: none;
+}
+

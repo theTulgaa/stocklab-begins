@@ -1,0 +1,25 @@
+.inner-con {
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    justify-content: space-between;
+}  
+.outter-con {
+    column-gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.btn1 {
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    border-radius: 15px;
+}

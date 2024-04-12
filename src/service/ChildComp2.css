@@ -1,0 +1,20 @@
+.service-main {
+    row-gap: 40px;
+    margin-top: 150px;
+}
+.service-main-last {
+    column-gap: 30px;
+}
+@media (max-width: 576px) {
+    .service-main-last {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .service-main {
+        margin-top: 60px;
+    }
+    .mdl-sec {
+        margin-top: -40px;
+    }
+}

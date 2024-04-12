@@ -1,0 +1,5 @@
+.custom-outter-div {
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
